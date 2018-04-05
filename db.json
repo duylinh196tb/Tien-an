@@ -1,0 +1,66 @@
+{
+    "contributes": [
+        {
+            "id": 1,
+            "name": "Linh",
+            "totalSpent": 500,  
+            "nb_p": "0983420876",
+            "details": [
+                {
+		"id":1,
+                    "spend": 150,
+                    "mem": [
+                        2,
+                        3
+                    ],
+                    "desc": "Trua thu 7"
+                },
+                {"id":2,
+                    "spend": 250,
+                    "mem": [
+                        2,3
+                    ],
+                    "desc": "Trua CN"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hoang",
+            "totalSpent": 500,  
+            "nb_p": "01693829453",
+            "details": [
+                {
+                    "spend": 150,
+                    "mem": [
+                        1,
+                        3
+                    ],
+                    "desc": "Toi thu 7"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Huong",
+            "nb_p": "0989876765",
+            "totalSpent": 600, 
+            "details": [
+                {
+                    "spend": 10,
+                    "mem": [
+                        2
+                    ],
+                    "desc": "Trua thu 7"
+                },
+                {
+                    "spend": 250,
+                    "mem": [
+                        1
+                    ],
+                    "desc": "Trua CN"
+                }
+            ]
+        }
+    ]
+}
